@@ -1,5 +1,6 @@
 HUB de JOGOS NLW- ROCKETSEAT
 
+Version Mobile
 React Native
 
 https://expo.dev/
