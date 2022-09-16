@@ -10,6 +10,7 @@ npm install @react-navigation/native
 #expo
 expo install react-native-screens react-native-safe-area-context
 expo install react-native-screens react-native-safe-area-context
+expo install expo-clipboard
 npm install @react-navigation/native-stack
 
 #phosphor-react-native
