@@ -11,6 +11,8 @@ npm install @react-navigation/native
 expo install react-native-screens react-native-safe-area-context
 expo install react-native-screens react-native-safe-area-context
 expo install expo-clipboard
+expo install expo-notifications
+expo install expo-modules-core
 npm install @react-navigation/native-stack
 
 #phosphor-react-native
@@ -18,3 +20,7 @@ npm i --save phosphor-react-native
 
 #expo svg
 expo install react-native-svg
+
+#melhorias pendentes
+-notificação (expo notifications)
+-autenticação
